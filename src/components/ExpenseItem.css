@@ -1,0 +1,37 @@
+.increase-button {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgb(41, 206, 41);
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.plus-icon {
+    color: white;
+}
+
+.decrease-button {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgb(191, 34, 34);
+    border: none;
+    color: white;
+    font-size: 26px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
+
+.minus-icon {
+    color: white;
+}

@@ -70,7 +70,12 @@ export const AppReducer = (state, action) => {
             return {
                 ...state
             }
-
+        // case 'SET_BUDGET':
+        //     return {
+        //         ...state,
+        //          budget: action.payload,
+        //     };
+        
         default:
             return state;
     }
